@@ -1,7 +1,7 @@
 Currently a Computer Science Junior.
 - 👋 Hi, I’m Pheng Visal.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React.js, Vue.js, Next.js and Node.js. :)
+- 🌱 I’m currently learning Vue.js, Next.js and Node.js. :)
 
 <!---
 VisalPheng/VisalPheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

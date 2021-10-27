@@ -1,7 +1,7 @@
 ## Hi I'm Visal a.k.a. mini!!!
 Currently a Computer Science Junior.
 - 👋 Hi, I’m Pheng Visal.
-- 👀 I’m expertise in Web Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently experimenting Vue.js, Next.js and Node.js. :)
 
 ### Skills

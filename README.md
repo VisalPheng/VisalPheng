@@ -2,7 +2,7 @@
 Currently a Computer Science Junior.
 - 👋 Hi, I’m Pheng Visal.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently experimenting Vue.js, Next.js and Node.js. :)
+- 🌱 I’m currently experimenting Vue.js, Nuxt.js and Node.js. :)
 
 ### Skills
 
